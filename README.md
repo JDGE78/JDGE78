@@ -2,6 +2,13 @@
 ### I'm a software developer with experience developing mobile and desktop applications using languages such as Visual Basic, C# (.NET technologies), SQL, Flutter, and Solidity for blockchain programming.
 
 ## 💼 Work Experience
+#### Actualidad:
+I am currently developing an Android application for tablets, for a futsal field delegate.
+
+<img src="https://user-images.githubusercontent.com/120699272/222881608-659a2f14-6c8d-4080-ae40-4782cdb68c10.png" alt="Configuración del partido" width="500">
+<img src="https://user-images.githubusercontent.com/120699272/222881610-5198f365-be9b-41a3-9f46-4d882c0d1138.png" alt="Marcador" width="500">
+
+
 Pioneer in mobile development for a company using Visual Basic .NET embedded and SQL for the now-defunct PDA devices.
 Optimized a poorly-performing app, improving its speed and user interface.
 Nationally responsible for the development of a mobile program, which was part of another set of enterprise applications.
