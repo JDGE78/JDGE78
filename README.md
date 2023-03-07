@@ -17,8 +17,11 @@ Actualmente continúo aprendiendo y adaptándome a las nuevas tecnologías. 👨
 - C#
 - Visual Basic
 - .NET
+- Visual Studio
 - SQL
 - Flutter
+- Android Studio
+- Firebase
 
 
 ### 📅 Actualmente me encuentro desarrollando una aplicación para Android para delagado de campo de Fútbol Sala:
