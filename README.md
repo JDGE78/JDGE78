@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Daniel Giménez
 
-### Soy desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles móviles y de escritorio.
+### Soy desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles y de escritorio.
 
 #### Vuelvo al ruedo. 🚀
 
