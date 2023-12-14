@@ -2,9 +2,7 @@
 
 ### Soy desarrollador Full Stack con experiencia en desarrollo de aplicaciones móviles y de escritorio.
 
-#### Vuelvo al ruedo. 🚀
-
-El primer programa que hice, fue en Basic. ¡Me pareció magia!
+#### 🚀
  
 Al inicio de mis 20, monté mi propia empresa de desarrollo de software, enfocado en facilitar al usuario la interacción con el programa, ya que consideraba que las empresas necesitaban un 'aire nuevo' en la manera de mostrar sus datos, intentando que la capa visible sea mas agradable e intuitiva. 🤓💻
 
